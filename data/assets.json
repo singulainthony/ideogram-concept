@@ -1,0 +1,185 @@
+[
+  {
+    "id": "0001",
+    "slug": "pinterest-tips",
+    "channel": "Pinterest pin",
+    "purpose": "Evergreen tips content",
+    "ratio": "2:3",
+    "width": 1664,
+    "height": 2496,
+    "model": "Ideogram 4.0",
+    "rendering": "turbo",
+    "magicPrompt": "AUTO",
+    "seed": "633674614",
+    "prompt": "Tall 2:3 Pinterest pin, clean tips graphic with a photograph. Reproduce the North York Tech Help logo from the reference image exactly — the navy laptop with stacked layers and rising pixel squares above the wordmark \"NORTH YORK\" and \"TECH HELP\" — with the same shapes, colours and lettering, not redrawn or restyled. The top 40% of the frame is a bright close-up photograph of an older woman's hands holding an iPhone, with a royal blue (#1D43C0) sleeve visible, against a softly blurred white living room; the phone screen shows large, easy-to-read text, softly blurred and unreadable. Below the photo, on a solid white background, a bold royal blue squared geometric sans-serif headline: \"3 iPhone settings that make life easier\". Under it, three numbered lines in navy (#1D49A7) clean rounded sans-serif, each beside a small periwinkle (#586FF6) rounded square holding a white number: \"1. Make the text bigger\", \"2. Turn on Silence Unknown Callers\", \"3. Set up Emergency SOS\". The bottom 12% is a navy (#1D49A7) band holding a centred white rounded card with the full-colour logo, and small sky blue (#62B7F6) and lime green (#94D769) squares rise out of the card. Generous spacing, large type, clear hierarchy, easy for older eyes to read. Bright, diffused daylight on the photo, 50mm lens, shallow depth of field.",
+    "logoLock": true,
+    "ideogramPlan": "Create a tall vertical Pinterest infographic pin featuring a top photograph of an older woman holding an iPhone, a central list of three tech tips, and the exact North York Tech Help logo from image 1 inside a bottom banner.",
+    "keptTheSame": [
+      "The graphic icon of the navy laptop with stacked gradient layers, rising pixel squares, and the exact typography of \"NORTH YORK\" and \"TECH HELP\" from image 1."
+    ],
+    "url": "https://ideogram.ai/g/8dS0enrOQOWgL-8cFm5nyg/0"
+  },
+  {
+    "id": "0002",
+    "slug": "flatlay-monthly",
+    "channel": "Local business post",
+    "purpose": "Monthly Tech Care plan",
+    "ratio": "4:3",
+    "width": 2304,
+    "height": 1728,
+    "model": "Ideogram 4.0",
+    "rendering": "turbo",
+    "magicPrompt": "AUTO",
+    "seed": "321144468",
+    "prompt": "Landscape 4:3 local business post, overhead flat-lay photograph. Reproduce the North York Tech Help logo from the reference image exactly — the navy laptop with stacked layers and rising pixel squares above the wordmark \"NORTH YORK\" and \"TECH HELP\" — with the same shapes, colours and lettering, not redrawn or restyled. Seen from directly above on a light oak desk: an iPad whose screen shows the logo large and crisp on a white background, plus a smartphone, reading glasses, a sky blue (#62B7F6) mug of tea, and a printed monthly calendar with a few dates circled in periwinkle (#586FF6) marker. The iPad and objects are arranged in the lower and right portions of the frame. The upper-left area is a clean white card holding a bold royal blue (#1D43C0) squared geometric sans-serif headline, \"Monthly Tech Care\", and a smaller navy (#1D49A7) line below: \"Updates, backups & security checks — handled.\" A small trail of lime green (#94D769) and periwinkle squares leads from the iPad's logo to the card. Soft diffused daylight, gentle shadows, crisp and tidy composition.",
+    "logoLock": true,
+    "ideogramPlan": "Create an overhead flat-lay photograph of a light oak desk featuring a tablet displaying the exact logo from image 1, accompanied by office accessories, a printed calendar, and a branded text card in the upper-left corner.",
+    "keptTheSame": [
+      "The graphic logo from image 1, including the navy blue laptop silhouette, the three stacked isometric layers, the ascending pixel squares, and the exact text \"NORTH YORK\" and \"TECH HELP\" with their original colors, fonts, and proportions."
+    ],
+    "url": "https://ideogram.ai/g/66o_3YTrR0S9lQ6WIW9cPg/0"
+  },
+  {
+    "id": "0003",
+    "slug": "facebook-cover",
+    "channel": "Facebook page cover",
+    "purpose": "Brand promise",
+    "ratio": "3:1",
+    "width": 3072,
+    "height": 1024,
+    "model": "Ideogram 4.0",
+    "rendering": "turbo",
+    "magicPrompt": "AUTO",
+    "seed": "1144882772",
+    "prompt": "Wide 2.6:1 Facebook page cover, bright lifestyle photograph. Reproduce the North York Tech Help logo from the reference image exactly — the navy laptop with stacked layers and rising pixel squares above the wordmark \"NORTH YORK\" and \"TECH HELP\" — with the same shapes, colours and lettering, not redrawn or restyled. An older South Asian couple sits on a sofa in a sunlit living room with white walls, smiling, as a friendly younger tech helper in a royal blue (#1D43C0) polo shirt kneels beside them showing them a smartphone. On the coffee table in the foreground sits a white mug printed with the logo, turned toward the camera and in sharp focus. Keep all important content, including the mug, within the central 70% of the frame, because mobile crops the sides, and keep the lower-left corner free of faces. The subjects sit centre-right. Centre-left, over the softly blurred white wall, a bold royal blue squared geometric sans-serif headline reads: \"No rush. No judgment. Just help.\" Three small squares in periwinkle (#586FF6), sky blue (#62B7F6) and lime green (#94D769) float just above the last word. Clean afternoon daylight, 35mm lens, shallow depth of field, natural and candid.",
+    "logoLock": true,
+    "ideogramPlan": "Create a wide lifestyle banner featuring the exact logo from image 1 on a foreground coffee table mug and on the wall, set in a sunlit living room with an older South Asian couple, a tech helper, and custom typography.",
+    "keptTheSame": [
+      "The complete logo graphic from image 1, including the navy blue laptop outline, the three stacked isometric layers in royal blue, green, and periwinkle, the ascending pixel squares in periwinkle, sky blue, and lime green, and the exact typography reading \"NORTH YORK\" in bold uppercase and \"TECH HELP\" below it, preserved identically on the mug."
+    ],
+    "url": "https://ideogram.ai/g/OzDamysgQO-i76RaPuNRZA/0"
+  },
+  {
+    "id": "0004",
+    "slug": "linkedin-trust",
+    "channel": "LinkedIn feed",
+    "purpose": "Social proof",
+    "ratio": "2:1",
+    "width": 2880,
+    "height": 1440,
+    "model": "Ideogram 4.0",
+    "rendering": "turbo",
+    "magicPrompt": "AUTO",
+    "seed": "770267841",
+    "prompt": "Horizontal 1.91:1 LinkedIn feed image, clean professional graphic design on a solid white background. Reproduce the North York Tech Help logo from the reference image exactly — the navy laptop with stacked layers and rising pixel squares above the wordmark \"NORTH YORK\" and \"TECH HELP\" — with the same shapes, colours and lettering, not redrawn or restyled. The logo sits in the top-left corner at a clear, readable size. Below it, the left 55% holds three left-aligned trust statements, each with a small simple periwinkle (#586FF6) line icon: a star icon with \"5.0 rated by local families\", a group icon with \"50+ seniors helped\", and a shield icon with \"Satisfaction guaranteed — or you don't pay\". The text is navy (#1D49A7) in a clean medium-weight sans-serif, with generous spacing. The right 45% holds a rounded-corner photograph of an older man's hands and a younger man's hands together on a laptop keyboard in bright daylight. A few small squares in sky blue (#62B7F6) and lime green (#94D769) float between the logo and the photo. A thin lime green accent bar runs along the bottom edge. Modern, trustworthy, uncluttered.",
+    "logoLock": true,
+    "ideogramPlan": "Create a horizontal LinkedIn feed graphic on a solid white background featuring the exact logo from image 1 in the top-left, three bulleted trust statements on the left, a rounded-corner photo on the right, floating pixel squares, and a bottom accent bar.",
+    "keptTheSame": [
+      "The graphic icon of the navy blue laptop with stacked gradient layers and rising pixel squares from image 1.",
+      "The exact wording, bold sans-serif typography, and navy blue color of 'NORTH YORK' and 'TECH HELP' from image 1."
+    ],
+    "url": "https://ideogram.ai/g/IJLTZt2nRuyJr6QeYRUnnA/0"
+  },
+  {
+    "id": "0005",
+    "slug": "header-neighbourhood",
+    "channel": "Social header",
+    "purpose": "Local identity",
+    "ratio": "3:1",
+    "width": 3072,
+    "height": 1024,
+    "model": "Ideogram 4.0",
+    "rendering": "turbo",
+    "magicPrompt": "AUTO",
+    "seed": "1420621961",
+    "prompt": "Wide 3:1 social media header banner, crisp flat vector illustration. Reproduce the North York Tech Help logo from the reference image exactly — the navy laptop with stacked layers and rising pixel squares above the wordmark \"NORTH YORK\" and \"TECH HELP\" — with the same shapes, colours and lettering, not redrawn or restyled. A bright North York neighbourhood scene stretches across the frame: a tree-lined residential street with detached houses, low-rise apartment buildings and a distant cluster of condo towers. The trees are lime green (#94D769) and the buildings are navy (#1D49A7) and periwinkle (#586FF6). The sky is nearly white at the top, fading to soft sky blue (#62B7F6) near the horizon. In the centre-right foreground, a white lawn sign on a front lawn displays the full logo clearly. Small squares in periwinkle, sky blue and lime green rise from the sign into the sky like pixels. The lower-left quarter of the banner is simple, uncluttered lawn and sky, because a profile photo covers that area. In the upper right, over the pale sky, bold royal blue (#1D43C0) squared geometric sans-serif text reads: \"Patient tech help for seniors\". Clean, friendly and uncluttered.",
+    "logoLock": true,
+    "ideogramPlan": "Create a wide horizontal social media header banner featuring a flat vector North York neighbourhood scene with the logo from image 1 mounted on a lawn sign and custom headline text in the upper right.",
+    "keptTheSame": [
+      "The graphic icon of the navy laptop with stacked gradient layers and rising pixel squares from image 1.",
+      "The exact wording, font, and styling of the text \"NORTH YORK\" and \"TECH HELP\" from image 1."
+    ],
+    "url": "https://ideogram.ai/g/Ddg4g4BATFKwFFoJUHl3zw/0"
+  },
+  {
+    "id": "0006",
+    "slug": "holiday-gift",
+    "channel": "Instagram post",
+    "purpose": "Seasonal gift offer",
+    "ratio": "1:1",
+    "width": 2048,
+    "height": 2048,
+    "model": "Ideogram 4.0",
+    "rendering": "turbo",
+    "magicPrompt": "AUTO",
+    "seed": "1375669750",
+    "prompt": "Square 1:1 Instagram post, cozy holiday lifestyle photograph. Reproduce the North York Tech Help logo from the reference image exactly — the navy laptop with stacked layers and rising pixel squares above the wordmark \"NORTH YORK\" and \"TECH HELP\" — with the same shapes, colours and lettering, not redrawn or restyled. A grandfather in his late 70s sits on a sofa beside his adult granddaughter, delighted as he lifts a new tablet out of an opened white gift box tied with a royal blue (#1D43C0) ribbon. A large white gift tag printed with the logo hangs from the ribbon, facing the camera in sharp focus. Soft white string lights and a blurred evergreen tree with blue and green ornaments glow in the background of a bright Toronto living room in December. The subjects sit in the right two-thirds of the frame. The left third is a clean white panel with softly rounded corners holding a bold royal blue squared geometric sans-serif headline: \"Give the gift of tech confidence\", with a smaller periwinkle (#586FF6) line beneath: \"Tech Tutoring for Grandparents\". A few tiny floating squares in sky blue (#62B7F6) and lime green (#94D769) sit above the headline. Clean, gentle evening light, 35mm lens, shallow depth of field.",
+    "logoLock": true,
+    "ideogramPlan": "Create a square holiday lifestyle advertisement featuring a grandfather and granddaughter opening a tablet gift in a living room, incorporating the exact logo from image 1 on a gift tag and a branded graphic panel on the left.",
+    "keptTheSame": [
+      "The graphic logo from image 1, including the navy blue laptop base, the three stacked gradient layers in blue, green, and periwinkle, the ascending pixel squares in blue, cyan, and lime green, and the exact typography of \"NORTH YORK\" and \"TECH HELP\"."
+    ],
+    "url": "https://ideogram.ai/g/suCdzDOnS0OldYEHj335dg/0"
+  },
+  {
+    "id": "0007",
+    "slug": "curious-about-ai",
+    "channel": "Landscape social",
+    "purpose": "AI lessons offer",
+    "ratio": "16:9",
+    "width": 2560,
+    "height": 1440,
+    "model": "Ideogram 4.0",
+    "rendering": "turbo",
+    "magicPrompt": "AUTO",
+    "seed": "354996071",
+    "prompt": "Landscape 16:9 social media post, bright editorial photograph with a text panel. Reproduce the North York Tech Help logo from the reference image exactly — the navy laptop with stacked layers and rising pixel squares above the wordmark \"NORTH YORK\" and \"TECH HELP\" — with the same shapes, colours and lettering, not redrawn or restyled. A woman in her late 60s wearing reading glasses sits at a home desk facing the camera, smiling in pleasant surprise at her open laptop. The back of the laptop lid faces the camera and carries a large white rounded sticker printed with the logo, crisp and in focus. She sits in the right half of the frame, with houseplants and bright natural daylight around her. The left half is a clean solid white panel with a bold royal blue (#1D43C0) squared geometric sans-serif headline: \"Curious about AI?\" and smaller navy (#1D49A7) text below in a clean rounded sans-serif: \"Patient, one-on-one lessons at home\". A short lime green (#94D769) bar separates the two lines, and a small cluster of periwinkle (#586FF6) and sky blue (#62B7F6) squares floats from the laptop sticker toward the panel. 50mm lens, eye level, shallow depth of field.",
+    "logoLock": true,
+    "ideogramPlan": "Create a split-screen landscape social media graphic featuring a bright editorial photograph of a woman at her desk on the right and a white text panel on the left, incorporating the exact logo from image 1 on the laptop lid and as floating graphic accents.",
+    "keptTheSame": [
+      "The exact graphic shapes, colors, and typography of the logo from image 1, including the navy blue laptop base, the stacked gradient layers, the pixel squares, and the exact wording \"NORTH YORK\" and \"TECH HELP\"."
+    ],
+    "url": "https://ideogram.ai/g/KUmjeSo_SIC0kfFRilTahg/0"
+  },
+  {
+    "id": "0008",
+    "slug": "scam-alert-story",
+    "channel": "Instagram / FB Story",
+    "purpose": "Scam-awareness PSA",
+    "ratio": "9:16",
+    "width": 1440,
+    "height": 2560,
+    "model": "Ideogram 4.0",
+    "rendering": "turbo",
+    "magicPrompt": "AUTO",
+    "seed": "437302939",
+    "prompt": "Vertical 9:16 Instagram and Facebook Story graphic, clean flat vector illustration. Reproduce the North York Tech Help logo from the reference image exactly — the navy laptop with stacked layers and rising pixel squares above the wordmark \"NORTH YORK\" and \"TECH HELP\" — with the same shapes, colours and lettering, not redrawn or restyled. Solid deep navy blue background (#1D49A7); the top 12% of the frame is plain navy. In the upper-middle: a large, simple flat illustration of a white smartphone showing a text message bubble with a blurred, unreadable link, and a bold lime green (#94D769) warning triangle with a navy exclamation mark overlapping the phone's corner. Above the phone, small sky blue (#62B7F6) capital letters: \"SCAM ALERT\". Below the phone, a large bold white headline in a squared geometric sans-serif with rounded corners: \"Your bank will never text you a link.\" Beneath it, smaller white text in a clean rounded sans-serif: \"When in doubt, hang up and call the number on your card.\" In the bottom 18%, a centred white rounded-rectangle badge holds the full-colour logo, with small periwinkle (#586FF6) and sky blue squares rising from the badge. High contrast, generous margins, large type that is easy for older eyes to read. Closed palette: navy, royal blue, periwinkle, sky blue, lime green and white only.",
+    "logoLock": true,
+    "ideogramPlan": "Create a vertical social media story graphic on a solid deep navy blue background featuring a scam alert illustration, bold warning typography, and the North York Tech Help logo from image 1 inside a bottom badge.",
+    "keptTheSame": [
+      "The exact shapes, colors, and layout of the logo from image 1, including the navy laptop base, the three stacked isometric layers in royal blue, lime green, and periwinkle, the rising pixel squares, and the exact typography of \"NORTH YORK\" and \"TECH HELP\"."
+    ],
+    "url": "https://ideogram.ai/g/3niXfZaBRO6dzWkAy_DWPg/0"
+  },
+  {
+    "id": "0009",
+    "slug": "family-feed",
+    "channel": "Instagram feed",
+    "purpose": "Hero brand image",
+    "ratio": "4:5",
+    "width": 1792,
+    "height": 2240,
+    "model": "Ideogram 4.0",
+    "rendering": "quality",
+    "magicPrompt": "AUTO",
+    "seed": "849781276",
+    "prompt": "Instagram feed post, 4:5 portrait, bright lifestyle photograph with headline text. Reproduce the North York Tech Help logo from the reference image exactly — the navy laptop with stacked layers and rising pixel squares above the wordmark \"NORTH YORK\" and \"TECH HELP\" — with the same shapes, colours and lettering, not redrawn or restyled. A smiling woman in her early 70s sits at a white kitchen table in a sunny Toronto home holding an iPad angled toward the camera; the iPad screen shows the logo large and crisp on a white background. A friendly man in his 30s in a royal blue (#1D43C0) sweater sits beside her, gently pointing at the screen; both are relaxed and laughing. The subjects fill the lower two-thirds of the frame. The top third is a softly out-of-focus white wall holding the headline in bold, squared geometric sans-serif letters with slightly rounded corners, in royal blue (#1D43C0): \"Tech help without bothering your family\". A few small squares in periwinkle (#586FF6), sky blue (#62B7F6) and lime green (#94D769) drift up from the iPad toward the headline, continuing the logo's pixel motif. Bright, clean morning daylight from the left. Shot on a 50mm lens at eye level, shallow depth of field, authentic and unposed.",
+    "logoLock": true,
+    "ideogramPlan": "Create a vertical lifestyle photograph of an older woman and a younger man at a kitchen table looking at an iPad displaying the exact logo from image 1, accented with floating pixel squares and promotional headline text across the upper wall.",
+    "keptTheSame": [
+      "The graphic elements, shapes, colors, and layout of the laptop and floating pixels emblem from image 1.",
+      "The typography, exact wording, and navy blue color of \"NORTH YORK\" and \"TECH HELP\" from image 1."
+    ],
+    "url": "https://ideogram.ai/g/HA8vOAa_SUqB7hOjohEV6A/0"
+  }
+]
